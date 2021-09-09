@@ -460,6 +460,7 @@ img {
 .skills__git {
     width: 50%;
 }
+
 .skills__react {
     width: 30%;
 }
@@ -730,7 +731,7 @@ a.contact__subtitle:hover {
         justify-content: center;
     }
 
-    .portfolio__content{
+    .portfolio__content {
         grid-template-columns: repeat(2, 1fr);
     }
 
@@ -865,4 +866,3 @@ a.contact__subtitle:hover {
     }
 
 }
-
